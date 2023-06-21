@@ -1,5 +1,5 @@
 
-<h2 style="font: bold"> Hi therer 👋, My name Raphael Mendes </h2>
+<h2 style="font: bold"> Hi there 👋, My name Raphael Mendes </h2>
 
 <h4> I'm starting now at programming</h4>
 
