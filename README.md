@@ -1,5 +1,10 @@
-<h2 style="font: bold"> Olá , sou Raphael Mendes </h2>
 
+<h2 style="font: bold"> Hi therer 👋, My name Raphael Mendes </h2>
+
+<h4> I'm starting now at programming</h4>
+
+
+### 👥 Connect With Me
 <div>
 
 <a href="https://instagram.com/raphaelmendes_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -7,6 +12,7 @@
 <a href="https://www.linkedin.com/in/raphael-mendess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 
+### 💫 Liitle Bit More About Me What I know and studying for...
 
 </div>
 
