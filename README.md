@@ -1,4 +1,4 @@
-#  Hi there 👋, My name Raphael Mendes 
+#  Hi there 👋, My name is Raphael Mendes 
 
 <h4> I'm starting now at programming</h4>
 
