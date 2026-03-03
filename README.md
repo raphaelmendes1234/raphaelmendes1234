@@ -22,9 +22,7 @@
  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raphaelmendes1234&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <!---<img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />--->
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
   
   
  
@@ -40,9 +38,7 @@
    <!-- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" /> -->
     
   <!----container--->
-   <img align="center" alt="Rafa-Python" height="30" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/soc/soc-origin-wordmark.svg" />
-
-   <img align="center" alt="Rafa-Python" height="30" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cybersecurity/cybersecurity-origin-wordmark.svg" />
+  <h3>#######  SOC || CyberSecurity  ##############</h3> 
 
    
    <!-----Ferramentas----->
