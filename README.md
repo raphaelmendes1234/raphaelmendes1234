@@ -40,9 +40,9 @@
    <!-- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" /> -->
     
   <!----container--->
-   <img align="center" alt="Rafa-Python" height="30" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/soc-origin.svg" />
+   <img align="center" alt="Rafa-Python" height="30" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/soc-origin-wordmark.svg" />
 
-   <img align="center" alt="Rafa-Python" height="30" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/cybersecurity-origin.svg" />
+   <img align="center" alt="Rafa-Python" height="30" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/cybersecurity-origin-wordmark.svg" />
 
    
    <!-----Ferramentas----->
