@@ -29,8 +29,7 @@
   
  
   
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
+ 
   
   <!--<img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> -- >
   <!---<img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> -->
@@ -41,7 +40,11 @@
    <!-- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" /> -->
     
   <!----container--->
-   <img align="center" alt="Rafa-Python" height="30" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" />
+   <img align="center" alt="Rafa-Python" height="30" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/soc-origin.svg" />
+
+   <img align="center" alt="Rafa-Python" height="30" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/cybersecurity-origin.svg" />
+
+   
    <!-----Ferramentas----->
    </br>
    </br>
