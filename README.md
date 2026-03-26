@@ -38,7 +38,7 @@
    <!-- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" /> -->
     
   <!----container--->
-  <h3>#######  SOC || CyberSecurity  ##############</h3> 
+  <h3>#######  NOC || Infra/Cloud  ##############</h3> 
 
    
    <!-----Ferramentas----->
